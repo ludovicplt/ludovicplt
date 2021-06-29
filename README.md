@@ -8,7 +8,7 @@
    * python
  <p> but I'm open to discovery of other languages</p>
 
-<h3>Here you can find a few projects</h3>
+### Here you can find a few projects
 
 projects | link
 -------- | -----
