@@ -1,11 +1,9 @@
-# Welcome in my github, please come in. 
-  <p>:wave: I'm PELTIER Ludovic, student at EPITECH Réunion island.</p>
+# Welcome to my github, please come in. 
+  <p>:wave: I'm PELTIER Ludovic, student in EPITECH Réunion island.</p>
+  
 
 ## about me
- * My favorite languages are
-   * C and Cpp
-   * javascript
-   * python
+ I'm open to all languages but not to the web
  <p> but I'm open to discovery of other languages</p>
 
 ### Here you can find a few projects
