@@ -3,10 +3,9 @@
   
 
 ## about me
- I'm open to all languages but not to the web
- <p> but I'm open to discovery of other languages</p>
+ <p> I'm open to discovery of other languages</p>
 
-### Here you can find a few projects
+### Here you can find a few projects made by me
 
 projects | link
 -------- | -----
